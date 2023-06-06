@@ -1,0 +1,16 @@
+
+.card-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,270px);
+    justify-content: center;
+    /* align-content: center; */
+    /* align-items: center; */
+    gap: 25px;
+    /* height: 100vh; */
+}
+
+img{
+    width: 100%;
+    /* width: 200px; */
+    /* height: auto; */
+}
